@@ -1,0 +1,18 @@
+.history_block {
+    padding: 50px;
+    display: none;
+    flex-flow: column;
+    gap: 30px;
+}
+
+.history_block h2 {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+.history_block table img {
+    height: 90px;
+    width: 90px;
+    object-fit: cover;
+}
